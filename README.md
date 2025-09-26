@@ -118,9 +118,10 @@ Hospital administrators, radiologists, and healthcare policy makers.
 
 ```mermaid
 flowchart LR
-    A[Medical Imaging Device (MRI/CT/X-ray)] --> B[Data Pre-processing]
+    A[Medical Imaging Device: MRI CT X-ray] --> B[Data Pre-processing]
     B --> C[AI Model Analysis]
     C --> D[Radiologist Review & Validation]
     D --> E[Final Diagnostic Report]
     E --> F[Improved Patient Care]
+
 
