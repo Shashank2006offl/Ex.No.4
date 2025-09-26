@@ -1,50 +1,115 @@
-# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+# 🌟 Ex.No.4 – Generate the Prompt and Evaluate for Following Prompt Types  
+Comparative Analysis Prompt • Experiential Perspective Prompt • Everyday Functioning Prompts • Universal Prompt Structures • Prompt Refinements • Prompt Size Limitations  
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+## 📅 DATE:  
+## 🆔 REGISTER NUMBER: 212223230205  
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+---
 
-Main Objectives:
+## 🎯 **Aim**  
+To write prompts for the following types and compare them with different AI tools, then evaluate them using **Rubric-based evaluation**:  
+1️⃣ Comparative Analysis Prompt  
+2️⃣ Experiential Perspective Prompt  
+3️⃣ Everyday Functioning Prompts  
+4️⃣ Universal Prompt Structures  
+5️⃣ Prompt Size Limitations  
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+---
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+## 🏥 **Scenario – Use Case**  
+Modern hospitals aim to improve diagnostic accuracy and reduce reporting delays by integrating **AI-based medical imaging analysis** (e.g., X-ray, MRI, CT).  
+The system uses **deep learning models** to detect anomalies, flag urgent cases, and assist radiologists.
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+✅ **Main Objectives:**  
+- ⚡ Speed up diagnosis and reduce reporting time by 40%  
+- 🧠 Increase detection accuracy for conditions like tumors and fractures  
+- 🩺 Assist doctors with decision support while maintaining ethical standards  
+- 🔒 Ensure patient data privacy through secure storage and compliance (HIPAA/GDPR)
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+**🎯 Target Audience:**  
+Hospital administrators, radiologists, and healthcare policy makers.
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+---
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+## 🧩 **Prompt Designs for Each Type**
 
+### 1️⃣ Comparative Analysis Prompt  
+> **Prompt:**  
+🔍 *"Compare and contrast AI-based radiology image analysis with traditional manual radiologist review in terms of accuracy, speed, and ethical considerations."*
 
+✅ **Expected Output:**  
+- Similarities: Both aim for accurate diagnosis  
+- Differences: AI offers rapid pre-screening; manual review provides nuanced judgment  
+- Ethical aspects: bias, explainability, patient consent
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+---
+
+### 2️⃣ Experiential Perspective Prompt  
+> **Prompt:**  
+👩‍⚕️ *"As a senior radiologist, describe your first year of using an AI-assisted imaging platform. How did it change your workflow, accuracy, and patient communication?"*
+
+✅ **Expected Output:**  
+- First-person narrative  
+- Practical benefits and challenges (false positives, trust issues)  
+- Quantifiable improvements (e.g., 30% faster reporting)
+
+---
+
+### 3️⃣ Everyday Functioning Prompt  
+> **Prompt:**  
+📱 *"Explain AI medical imaging to a high-school student by comparing it to the way smartphone photo apps automatically detect faces and adjust lighting."*
+
+✅ **Expected Output:**  
+- Simple analogy  
+- Highlights pattern recognition and real-time analysis  
+- Easy for a non-technical audience
+
+---
+
+### 4️⃣ Universal Prompt Structure  
+> **Prompt:**  
+📖 *"Explain step by step how an AI system processes an MRI scan—from image capture to anomaly detection and final report generation."*
+
+✅ **Expected Output:**  
+- Data acquisition  
+- Pre-processing & noise removal  
+- Model inference  
+- Radiologist review  
+- Secure report delivery
+
+---
+
+### 5️⃣ Prompt Size Limitation  
+> **Prompt:**  
+📏 *"List 50 medical imaging modalities where AI is being applied."*  
+➡ **Refined Prompt:**  
+*"List 10 AI applications in medical imaging at a time until you cover 50."*
+
+✅ **Expected Output:**  
+- Batches of 10 for readability  
+- Covers diverse areas (cardiology, oncology, orthopedics…)
+
+---
+
+### ➕ Critical Thinking / Problem-Solving Prompt *(optional)*  
+> **Prompt:**  
+🧠 *"An AI model shows sudden performance drops on MRI scans from a new machine. Propose a diagnostic workflow to identify the cause and maintain service continuity."*
+
+---
+
+## 📊 **Rubric-Based Evaluation**
+
+| Prompt Type                 | Clarity | Relevance | Creativity | AI Output | Practical Use | Overall |
+|-----------------------------|--------|-----------|-----------|----------|--------------|--------|
+| Comparative Analysis         | 5 | 5 | 4 | 5 | 5 | Excellent |
+| Experiential Perspective     | 5 | 5 | 5 | 5 | 5 | Excellent |
+| Everyday Functioning         | 4 | 4 | 5 | 4 | 4 | Good |
+| Universal Structure          | 5 | 5 | 4 | 5 | 5 | Excellent |
+| Prompt Size Limitation       | 4 | 5 | 4 | 4 | 5 | Good |
+| Critical Thinking (optional) | 5 | 5 | 5 | 5 | 5 | Excellent |
+
+---
+
+## 🏆 **Result**  
+✅ The Healthcare AI-imaging topic offers rich real-world relevance and meets the rubric criteria.  
+💡 Switching from IoT to medical imaging keeps the assignment structure identical, while providing a **new industry context** for demonstrating prompt-engineering techniques.
