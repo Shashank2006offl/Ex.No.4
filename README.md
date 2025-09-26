@@ -113,6 +113,7 @@ Hospital administrators, radiologists, and healthcare policy makers.
 ## 🏆 **Result**  
 ✅ The Healthcare AI-imaging topic offers rich real-world relevance and meets the rubric criteria.  
 💡 Switching from IoT to medical imaging keeps the assignment structure identical, while providing a **new industry context** for demonstrating prompt-engineering techniques.
+```mermaid
 flowchart LR
     A[Medical Imaging Device (MRI/CT/X-ray)] --> B[Data Pre-processing]
     B --> C[AI Model Analysis]
